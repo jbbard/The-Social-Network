@@ -1,0 +1,19 @@
+{
+    "name": "Dummy",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Collections",
+        "Unity.Entities",
+        "Unity.InputSystem",
+        "Unity.Transforms"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
