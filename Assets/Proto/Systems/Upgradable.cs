@@ -1,11 +1,11 @@
-﻿using Dummy.Components;
+using Dummy.Components;
 using Unity.Entities;
 using UnityEngine;
 
 namespace Dummy.Systems
 {
     // TODO convert to system group
-    public class Upgradable : SystemBase
+    public class pgradable : SystemBase
     {
         // NativeListEntityQuery
         private System.Collections.Generic.List<EntityQuery> m_queryList;

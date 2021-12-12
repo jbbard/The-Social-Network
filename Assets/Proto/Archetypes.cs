@@ -36,7 +36,7 @@ namespace Dummy.Archetypes
             ComponentType.ReadWrite<Components.Base.Name>(),
 
             ComponentType.ReadWrite<Components.Location.Occupant>(),
-            ComponentType.ReadWrite<Components.Location.Resident>(),
+            ComponentType.ReadWrite<Components.Location.Owners>(),
         };
 
 

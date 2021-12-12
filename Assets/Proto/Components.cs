@@ -60,7 +60,7 @@ namespace Dummy.Components
 
     namespace Location
     {
-        public struct Resident : IBufferElementData
+        public struct Owners : IBufferElementData
         {
             public Entity entity;
         }
