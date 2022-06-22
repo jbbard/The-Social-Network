@@ -2,6 +2,7 @@
     "name": "Proto",
     "rootNamespace": "",
     "references": [
+        "Unity.Burst",
         "Unity.Collections",
         "Unity.Entities",
         "Unity.InputSystem",

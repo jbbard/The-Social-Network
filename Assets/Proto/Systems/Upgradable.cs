@@ -5,7 +5,7 @@ using UnityEngine;
 namespace Dummy.Systems
 {
     // TODO convert to system group
-    public class pgradable : SystemBase
+    public partial class pgradable : SystemBase
     {
         // NativeListEntityQuery
         private System.Collections.Generic.List<EntityQuery> m_queryList;
@@ -30,7 +30,7 @@ namespace Dummy.Systems
 
         protected override void OnUpdate()
         {
-            
+
         }
     }
 }

@@ -16,7 +16,7 @@ namespace Dummy.Systems
     }
 
     // TODO convert to system group
-    public class Calendar : SystemBase
+    public partial class Calendar : SystemBase
     {
         protected override void OnCreate()
         {
